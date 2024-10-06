@@ -9,7 +9,7 @@ Este proyecto es mi primer portafolio, creado con HTML5 y CSS3. Muestra una sele
 ## 🛠️ Tecnologías utilizadas
 + **HTML5:** Para la estructura del sitio. 🧱
 + **CSS3:** Para el diseño y estilo, incluyendo un diseño responsivo y efectos de _hover_. 🎨
-+ **JavaScript:** Para darle funcionalidad a un botón de desplazamiento.
++ **JavaScript:** Para darle funcionalidad a un botón de desplazamiento. 🪄
 + **Google Icons:** Para iconos personalizados. 🔧
 
 ## 🔍 Vista previa del Proyecto:
