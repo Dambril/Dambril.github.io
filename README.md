@@ -13,6 +13,7 @@ Este proyecto es mi primer portafolio, creado con HTML5 y CSS3. Muestra una sele
 + **Google Icons:** Para iconos personalizados. 🔧
 
 ## 🔍 Vista previa del Proyecto:
+![Captura de pantalla (45)](https://github.com/user-attachments/assets/fd95a163-e2f3-4333-91f2-7803165ca29e)
 
 
 ## 📞 Contacto
